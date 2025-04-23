@@ -6,6 +6,6 @@ This project highlights an interactive Mortgage Analytics Dashboard developed us
 ### 🔍 Key Insights & Features:
 💰 Loan Balance Exploration.  
 📈 Trade Analysis & Status.  
-🤝 Counterparties.  
+🤝 Counterparties & More!...  
 
 ### 🛠 Tool Used: Power BI.
